@@ -1,9 +1,16 @@
-Nama          : Multazam Arroihan G <br>
-Kelas         : XI RPL 5 <br>
-No Urut       : 21 <br>
-NIS           : 4775/1494.070 <br> 
-Asal Sekolah  : SMK Telkom Malang <br>
-App           : id.sch.smktelkom_mlg.learn.activitylivecycle <br>
+## ActivityLivecycle
+* id.sch.smktelkom_mlg.learn.activitylivecycle
 
-![lva](https://github.com/rehanarroihan/ActivityLivecycle/blob/master/lva.png)
-![lva](https://github.com/rehanarroihan/ActivityLivecycle/blob/master/lva.png)
+## Identitas
+* Nama  : Multazam Arroihan G
+* Kelas : XI RPL 5
+* Absen : 21
+* NIS   : 4775/1494.070
+* Sekolah : SMK Telkom Malang
+
+## Screenshot Aplikasi
+<p align="center">
+  <img src="https://github.com/rehanarroihan/ActivityLivecycle/blob/master/lva.png" width="350"/>
+  <img src="http://i66.tinypic.com/2m76z9x.png" width="350"/>
+</p>
+
